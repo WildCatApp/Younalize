@@ -9,4 +9,4 @@ Allow: /
 
 User-agent: Googlebot
 Allow: /
-Sitemap: https://younalize.live
+Sitemap: https://younalize.live/sitemap.xml
